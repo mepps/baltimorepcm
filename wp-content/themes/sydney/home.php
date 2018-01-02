@@ -43,7 +43,7 @@ $layout = sydney_blog_layout();
 
 		<?php else : ?>
 
-			<?php get_template_part( 'content', 'none' ); ?>
+			<?php //get_template_part( 'content', 'none' ); ?>
 
 		<?php endif; ?>
 

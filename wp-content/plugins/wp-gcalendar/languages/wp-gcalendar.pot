@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Gcalendar 1.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 13:09+0100\n"
+"PO-Revision-Date: 2015-04-27 13:09+0100\n"
+"Last-Translator: Eurocizia Team <eurocizia@gmail.com>\n"
+"Language-Team: Eurocizia Team <eurocizia@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: admin/partials/settings.php:16
+msgid "Settings updated"
+msgstr ""
+
+#: admin/partials/settings.php:23
+msgid "Settings saved"
+msgstr ""
+
+#: admin/partials/settings.php:45
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/settings.php:50
+msgid "Client ID"
+msgstr ""
+
+#: admin/partials/settings.php:96
+msgid "Save"
+msgstr ""
+
+#: admin/partials/settings.php:97
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/settings.php:68
+msgid "Calendar Language"
+msgstr ""
+
+#: admin/partials/events.php:8
+msgid "Settings required"
+msgstr ""
+
+#: admin/partials/events.php:9
+msgid "Go to settings"
+msgstr ""
+
+#: admin/partials/events.php:32
+msgid "List of upcoming events"
+msgstr ""
+
+#: admin/partials/events.php:43
+msgid "New Event"
+msgstr ""
+
+#: admin/partials/events.php:35
+msgid "Synchronize"
+msgstr ""
+
+#: admin/partials/events.php:41
+msgid "Title"
+msgstr ""
+
+#: admin/partials/events.php:42
+msgid "Location"
+msgstr ""
+
+#: admin/partials/events.php:43
+msgid "Start date"
+msgstr ""
+
+#: admin/partials/events.php:44
+msgid "End date"
+msgstr ""
+
+#: admin/partials/events.php:45
+msgid "Description"
+msgstr ""
+
+#: admin/partials/events.php:46
+msgid "Status"
+msgstr ""
+
+#: admin/partials/events.php:47
+msgid "Action"
+msgstr ""
+
+#: admin/partials/events.php:72
+msgid "start"
+msgstr ""
+
+#: admin/partials/events.php:72
+msgid "at"
+msgstr ""
+
+#: admin/partials/events.php:73
+msgid "end"
+msgstr ""
+
+#: admin/partials/ajax-callback.php:111
+msgid "Your events have been synchronized with your google calendar"
+msgstr ""
+
+#: admin/partials/settings.php:72
+msgid "English"
+msgstr ""
+
+#: admin/partials/settings.php:73
+msgid "Arabic"
+msgstr ""
+
+#: admin/partials/settings.php:74
+msgid "Spanish"
+msgstr ""
+
+#: admin/partials/settings.php:75
+msgid "French"
+msgstr ""
+
+#: admin/partials/settings.php:76
+msgid "Dutch"
+msgstr ""
+
+#: admin/partials/settings.php:77
+msgid "Italian"
+msgstr ""
+
+#: admin/partials/settings.php:78
+msgid "German"
+msgstr ""
+
+#: admin/partials/settings.php:79
+msgid "Portuguese"
+msgstr ""
+
+#: admin/partials/settings.php:80
+msgid "Persian"
+msgstr ""
+
+#: admin/partials/settings.php:81
+msgid "Japanese"
+msgstr ""
+
+#: admin/partials/settings.php:82
+msgid "Hindi"
+msgstr ""
+
+#: admin/partials/settings.php:83
+msgid "Hungarian"
+msgstr ""
+
+#: admin/partials/settings.php:84
+msgid "Indonesian"
+msgstr ""
+
+#: admin/partials/settings.php:85
+msgid "Icelandic"
+msgstr ""
+
+#: admin/partials/settings.php:86
+msgid "Korean"
+msgstr ""
+
+#: admin/partials/settings.php:87
+msgid "Latvian"
+msgstr ""
+
+#: admin/class-wp-gcalendar-admin.php:61
+msgid "All Events"
+msgstr ""
+
+#: admin/class-wp-gcalendar-admin.php:65
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/trans.php:2
+msgid "Calendars"
+msgstr ""
+
+#: admin/partials/trans.php:3
+msgid "Add"
+msgstr ""
+
+#: admin/partials/trans.php:4
+msgid "Name"
+msgstr ""
+
+#: admin/partials/trans.php:5
+msgid "ID"
+msgstr ""
+
+#: admin/partials/trans.php:6
+msgid "Language"
+msgstr ""
+
+#: admin/partials/trans.php:7
+msgid "Mode"
+msgstr ""
+
+#: admin/partials/trans.php:8
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/trans.php:9
+msgid "Are you sure you want to delete this calendar?"
+msgstr ""
+
+#: admin/partials/trans.php:10
+msgid "Calendar"
+msgstr ""
+
+#: admin/partials/trans.php:11
+msgid "Event"
+msgstr ""
+
+#: admin/partials/trans.php:12
+msgid "Event Title"
+msgstr ""
+
+#: admin/partials/trans.php:13
+msgid "Event date"
+msgstr ""
+
+#: admin/partials/trans.php:14
+msgid "To"
+msgstr ""
+
+#: admin/partials/trans.php:15
+msgid "Time"
+msgstr ""
+
+#: admin/partials/trans.php:16
+msgid "Attendees"
+msgstr ""
+
+#: admin/partials/trans.php:17
+msgid "PS: press enter to add an other email"
+msgstr ""
+
+#: admin/partials/trans.php:18
+msgid "Notify me via"
+msgstr ""
+
+#: admin/partials/trans.php:19
+msgid "before"
+msgstr ""
+
+#: admin/partials/trans.php:20
+msgid "calendar ID"
+msgstr ""
+
+#: admin/partials/trans.php:21
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/trans.php:22
+msgid "month"
+msgstr ""
+
+#: admin/partials/trans.php:23
+msgid "week"
+msgstr ""
+
+#: admin/partials/trans.php:24
+msgid "day"
+msgstr ""
+
+#: admin/partials/trans.php:25
+msgid "Date"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

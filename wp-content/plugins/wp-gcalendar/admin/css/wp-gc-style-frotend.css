@@ -1,0 +1,46 @@
+.fc button.fc-prev-button, .fc button.fc-next-button{
+    width: 35px;
+    height: 27px;
+}
+.fc button.fc-prev-button:hover, .fc button.fc-next-button:hover,.fc button.fc-today-button:hover,.fc button.fc-month-button:hover, .fc button.fc-agendaWeek-button:hover, .fc button.fc-agendaDay-button:hover{
+    background: #E6E6E6 !important;
+}
+.fc button.fc-month-button, .fc button.fc-agendaWeek-button, .fc button.fc-agendaDay-button{
+    font-size: 14px;
+}
+.fc button .fc-icon {
+    margin: 0 -1.8em !important;
+}
+.fc button.fc-today-button{
+    height: 27px;
+    font-size: 14px;
+    color: #333333 !important;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+.fc-center h2{
+    font-size: 23px;
+    font-weight: 400;
+    padding: 9px 15px 4px 0;
+    line-height: 29px;
+    color: #333333 !important;
+}
+.fc th {
+    background-color: #3F51B5 !important;
+    color: #fff !important;
+}
+.fc-day-grid-container{
+    height: 100% !important;
+}
+a.fc-event{
+    border-bottom: none;
+    border: 1px solid #3f51b5 !important;
+    background-color: #3f51b5 !important;
+    color:#fff !important;
+}
+.fc-view-container .fc-view{
+    border: 1px solid #3F51B5;
+}
+.fc-view-container .fc-view table{
+    margin-bottom: 0 !important;
+}
