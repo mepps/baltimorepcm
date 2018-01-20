@@ -1,6 +1,9 @@
 {
   "require":
     {
-      "mbstring": "*"
+      "ext-mbstring": "*",
+      "nesbot/carbon" : "1.21.0",
+      "google/apiclient" : "*",
+      "mexitek/phpcolors" : "dev-master"
     }
 }
